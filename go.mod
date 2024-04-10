@@ -1,4 +1,4 @@
-module https://github.com/sairamp98/blockchain
+module github.com/sairamp98/blockchain
 
 go 1.12
 
