@@ -1,4 +1,4 @@
-module github.com/MarinX/btc-vanity
+module https://github.com/sairamp98/blockchain
 
 go 1.12
 
